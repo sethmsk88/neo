@@ -15,7 +15,7 @@
 				<a
 					class="btn btn-default"
 					role="button"
-					href="http://www.famu.edu/index.cfm?odtraining&NewEmployeeOrientation"
+					href="http://famu.edu/odtraining/NewEmployeeOrientation.html"
 					style="margin:2px 0 2px 0;"
 					>
 					Return to Main Menu
